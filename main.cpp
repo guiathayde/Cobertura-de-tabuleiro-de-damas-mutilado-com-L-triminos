@@ -3,7 +3,7 @@
 #include <math.h>
 #include <time.h>
 
-void imprime_tabuleiro();
+void imprime_tabuleiro(int m, int n);
 
 int main(void) {
   int m, n, k;
